@@ -1,2 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hi, am Martha! Nice to meet you!
+I am aspiring to be a web developer.
+
